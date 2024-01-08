@@ -1,9 +1,9 @@
-####################################
-#### 创建者：xtbaige
+#### 创建者：xtbaige  
 ##### 客户端：Clash ，Quantumult X , V2yareN 
 ##### 更新时间：2024-1-08 23:49:04
 #### 感谢大家一路支持卖货的老张，
-##### 欧易客户端下载：http://xtbaige.myDS.me:5000/sharing/x4rqjEDqb
+##### 欧易客户端下载：  
+      http://xtbaige.myDS.me:5000/sharing/x4rqjEDqb
 
 ### 以下各平台的配置方法
    ## 如何使用QX懒人配置文件
