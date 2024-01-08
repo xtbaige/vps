@@ -32,7 +32,7 @@
  ## 
  ### 安卓Clash使用教程
 > 1.下载客户端。(GitHub) 需翻墙  
-    https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest  
-> 2.点击配置-右上角+号，从URL导入节点链接，  
-> 3.名称-URL-右上角保存-配置文件点个勾，  
+   https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest  
+> 2.点击配置-右上角+号，复制 https://raw.github.com/xtbaige/vps/main/Clash_xtbaige.yml  
+> 3.输入名称-URL输入以上订阅节点-右上角保存-返回配置在文件名上点个勾，  
 > 4.点击启动，  
