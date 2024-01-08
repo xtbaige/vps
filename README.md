@@ -1,5 +1,5 @@
 #### 创建者：xtbaige  
-##### 客户端：[Clash](# clash)，[Quantumult X](#quantumult-x) , [V2yareN ](#v2yaren),
+##### 客户端：[Clash](#clash)，[Quantumult X](#quantumult-x) , [V2yareN ](#v2yaren),
 ##### 更新时间：2024-1-08 23:49:04
 #### 感谢大家一路支持 [卖货的老张]  
 ##### 欧易客户端下载：  
