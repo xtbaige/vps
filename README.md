@@ -6,9 +6,9 @@
       http://xtbaige.myDS.me:5000/sharing/x4rqjEDqb
 
 ## 以下各平台的配置方法
-   ### Quantumult X 懒人配置文件
+   ### Quantumult X 懒人配置文件  
 #### 第一步 下载预配置文件  
- 1.复制 > https://raw.githubusercontent.com/xtbaige/vps/main/quantumult_x_20240108.conf  
+> 1.复制 https://raw.githubusercontent.com/xtbaige/vps/main/quantumult_x_20240108.conf  
       预配置文件链接（大家也可以在浏览器内打开该预配置文件链接以查看具体配置详情，好做进一步的理解）；  
 > 2.进入 QuantumultX ，点击右下角 [三菱按钮/设置按钮]  
 > 3.找到 [配置文件] 模块下的 [下载] 点击  
