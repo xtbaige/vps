@@ -7,7 +7,6 @@
 
 ## 以下各平台的配置方法
    ### Quantumult X 懒人配置文件  
-   ```
 #### 第一步 下载预配置文件  
 > 1.复制 https://raw.githubusercontent.com/xtbaige/vps/main/quantumult_x_20240108.conf  
       预配置文件链接（大家也可以在浏览器内打开该预配置文件链接以查看具体配置详情，好做进一步的理解）；  
@@ -30,11 +29,10 @@
 ⚠️ 点击安装证书后不是在 Safari 打开，而是在其他浏览器打开，导致证书无法安装；    
 ✅ 解决办法：打开 iPhone 设置 app - 搜索或下滑找到 Safari浏览器 点击 ， -找到 默认浏览器App ，  
 选择 Safari浏览器， 然后重试第二步即可。  
-```
  ## 
  ### 安卓Clash使用教程
 > 1.下载客户端。(GitHub) 需翻墙  
-   https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest  
+  ``` https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest```  
 > 2.点击配置-右上角+号，复制 https://raw.github.com/xtbaige/vps/main/Clash_xtbaige.yml  
 > 3.输入名称-URL输入以上订阅节点-右上角保存-返回配置在文件名上点个勾，  
 > 4.点击启动，  
