@@ -29,7 +29,7 @@
 ✅ 解决办法：打开 iPhone 设置 app - 搜索或下滑找到 Safari浏览器 点击 ， -找到 默认浏览器App ，  
 选择 Safari浏览器， 然后重试第二步即可。  
 
- ### 安卓Clash使用教程  
+ ### 安卓Clash使用教程
 > 1.下载客户端。(GitHub) 需翻墙  
     https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest  
 > 2.点击配置-右上角+号，从URL导入节点链接，  
