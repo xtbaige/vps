@@ -35,9 +35,9 @@
 选择 Safari浏览器， 然后重试第二步即可。  
  ## 
  ### 安卓Clash使用教程
-> 1.下载客户端。(GitHub) 需翻墙，复制以上链接下载 armX86  
+> 1.下载客户端,(GitHub)库以删除，收集于NAS复制以下链接下载 arm64，V8a   
 
-    https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest  
+    http://xtbaige.myDS.me:5000/sharing/nWIhTXqt5 
 > 2.点击配置-右上角+号，复制
 > 
      https://raw.github.com/xtbaige/vps/main/Clash_xtbaige.yml
