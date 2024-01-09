@@ -32,20 +32,28 @@
 选择 Safari浏览器， 然后重试第二步即可。  
  ## 
  ### 安卓Clash使用教程
-> 1.下载客户端。(GitHub) 需翻墙  
-https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest  
-> 2.点击配置-右上角+号，复制 https://raw.github.com/xtbaige/vps/main/Clash_xtbaige.yml  
+> 1.下载客户端。(GitHub) 需翻墙，复制以上链接下载 armX86  
+
+    https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest  
+> 2.点击配置-右上角+号，复制
+> 
+>     https://raw.github.com/xtbaige/vps/main/Clash_xtbaige.yml
+
 > 3.输入名称-URL输入以上订阅节点-右上角保存-返回配置在文件名上点个勾，  
-> 4.点击启动，  
+> 4.点击启动，
+> 
  ### 电脑端Clash使用教程  
->  1.下载电脑端，Clash ，个人收藏NAS上，（GitHub）库以删除，旧版本依旧可以正常使用，  
-     复制链接下载： http://xtbaige.myDS.me:5000/sharing/Ju9IviEpM  
- > 2.说明：app.asar对应的汉化文件包，一同下载，安装好导入到安装文件resources目录下，  
->  3.点击配置-粘贴订阅节点下载 https://raw.github.com/xtbaige/vps/main/Clash_xtbaige.yml    
->  4.点击常规-系统代理开启-TUN模式开启
+>  1.下载电脑端Clash ，个人收藏NAS上（GitHub）上库以删除源代码数据，旧版本依旧可以正常使用，  
+     复制链接下载：
+>
+>     http://xtbaige.myDS.me:5000/sharing/Ju9IviEpM
+ > 2.汉化说明：app.asar汉化文件，一同下载导入到Clash安装文件夹resources目录下，  
+>  3.点击配置-粘贴订阅节点下载：  
+> 
+>       https://raw.github.com/xtbaige/vps/main/Clash_xtbaige.yml
+>  4.点击常规-系统代理开启-TUN模式开启  
 >  5.完成  
 
  ## 
 
-###  `以上内容分享给你，请勿传播，节点自建流量有限，都可使用`
-
+###  `以上内容分享给你，请勿传播，节点自建流量有限，都可使用`  
