@@ -3,7 +3,7 @@
 ##### 更新时间：2024-1-10 23:49:04
 #### 感谢大家一路支持 [卖货的老张]  
 #### 欧易客户端下载：
-      http://xtbaige.myDS.me:5000/sharing/x4rqjEDqb  
+      http://xtbaige.myDS.me:5000/sharing/r5zpRr9wz  
 
 ## 以下各平台的配置方法
    ### Quantumult X 懒人配置文件  
